@@ -2,6 +2,7 @@
 jpg Acropalypse POC
 
 Suppose you have two identical images except for one circle being blue and the other being red, and then you compress them with jpg.
+
 ![redcircle.jpg](redcircle.jpg?raw=true)
 ![bluecircle.jpg](bluecircle.jpg?raw=true)
 
