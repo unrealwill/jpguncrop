@@ -11,9 +11,11 @@ If you redact these jpg files now and save them losslessly
 ![croppedred.png](croppedred.png?raw=true)
 ![croppedblue.png](croppedblue.png?raw=true)
 
-In fact due to jpg compression artifact the files are different and therefore you can unredact them
+In fact due to jpg compression artifact the files are different and therefore you can unredact them.
 
-![alt text](diff.png?raw=true)
+Diff between the two images :
+
+![Pixel wise diff](diff.png?raw=true)
 
 See jpguncrop.cpp for how the images are constructed.
 
